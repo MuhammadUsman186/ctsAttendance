@@ -1,0 +1,30 @@
+class Images {
+  static const ctsLogo1 = "assets/images/cts-logo1.png";
+  static const ctsLogo2 = "assets/images/cts-logo2.png";
+  static const threeStudents = "assets/images/three-students.png";
+  static const rectangle = "assets/images/rectangle.png";
+  static const eyeShow = "assets/images/eye-1.png";
+  static const eyeClose = "assets/images/eye-2.png";
+  static const eyeClose2 = "assets/images/eye-3.png";
+  static const students = "assets/images/person-list.png";
+  static const history = "assets/images/group17029.png";
+  static const courses = "assets/images/books.png";
+  static const report = "assets/images/mask-group.png";
+  static const account = "assets/images/person.png";
+  static const profile = "assets/images/profile.png";
+  static const happy = "assets/images/happy.png";
+  static const crying = "assets/images/crying.png";
+  static const famous = "assets/images/famous.png";
+  static const sweating = "assets/images/sweating.png";
+  static const angry = "assets/images/angry.png";
+  static const backArrow = "assets/images/back-arrow.png";
+  static const background = "assets/images/background.png";
+  static const search = "assets/images/search.png";
+  static const rectangleTick = "assets/images/rectangle_tick.png";
+  static const profileQuestion = "assets/images/profile-q.png";
+  static const faceDetect = "assets/images/face-detect.png";
+  static const error = "assets/images/error.png";
+  static const gifArrow = "assets/gifs/arrow-blue.gif";
+  static const retake = "assets/images/retake.png";
+  static const download = "assets/images/download.png";
+}
